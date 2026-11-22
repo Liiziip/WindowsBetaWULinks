@@ -1,0 +1,8 @@
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/windows10.0-kb3070681-v2-x86_207eecd7b1df638ad12ca188dceb3c10f9adf24f.psf
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/windows10.0-kb3070681-v2-x86_3df1e1577106ffd85290ab5ea0f3be353d7bd177.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/windows10.0-kb3070681-v2-x86_c66e036ca857e71c84600de60f043fc3a1cddfdb.msu
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/windows10.0-kb3070681-v2-x86-express_2c4790b3e124f01d29ed0391cfe8aa2d2b1fdb0e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/windows10.0-kb3070980-x86_6091c7e634e719b7d5ec45652acf572281c93520.psf
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/windows10.0-kb3070980-x86_6d1190c0358efc9d2bf90bc73b4f87b5320f24b9.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/windows10.0-kb3070980-x86_b4c76b23fbb010b7257bc8ecc5a562b201b61225.msu
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/windows10.0-kb3070980-x86-express_87e0637dc9c3cbbb6771d1eacf414cdb06921050.cab

@@ -1,0 +1,4 @@
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/05/windows10.0-kb3064238-x86_792291309912552107b536200d1067a0616d56d1.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/05/windows10.0-kb3064238-x86_9a9f75fbbf39cebd996f05462aa1be5e5e587a16.msu
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/05/windows10.0-kb3064238-x86_c1506f4be2364dff3050c9382301b5700c9c3839.psf
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/05/windows10.0-kb3064238-x86-express_8ab8f697e73723c354e57b54d184b4110137241c.cab
