@@ -1,0 +1,14 @@
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/06/windows8family-kb2716368-arm-rp_448944f2f32645b3460ca103b2fcbcd42a53bbc8.psf
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/06/windows8family-kb2716368-arm-rp_7d894fc02adaab004c2ecb7f09086d65dcec1634.msu
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/06/windows8family-kb2716368-arm-rp_a31c7a9623fb5e848a656a5544beb9b5838b6ee1.cab
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/06/windows8family-kb2716368-arm-rp-express_39a34fde0bee8814f5eea08a4fb81fbe19447fc7.cab
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/06/windows8family-kb2717246-arm-rp_aa706bf82d40e54184f92e0cfa7764fbca639129.psf
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/06/windows8family-kb2717246-arm-rp_f331dd954ca838202313cae96cb1bf6b5ddfcf41.msu
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/06/windows8family-kb2717246-arm-rp_f878c5b998406142f5cf17725c00efa0c77c2220.cab
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/06/windows8family-kb2717246-arm-rp-express_faa348339db939ac7a8ea6318e875b8311f91f89.cab
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/06/windows8family-kb2718704-arm-rp_9471f94c6f804ba0f69b6aa9185084c6ad0c839a.msu
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/06/windows8family-kb2718704-arm-rp_adc65f8290f3883170166a20f798b9916fed07ad.cab
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/06/windows8family-kb2718791-arm-rp_19056edcbef79e945be08897926ad590fce202ba.psf
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/06/windows8family-kb2718791-arm-rp_7fb22dc82a14e182971c86b54d4dd6868c9ff7e9.msu
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/06/windows8family-kb2718791-arm-rp_c03840dd843bf6a96333971c16d75987464cae58.cab
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/06/windows8family-kb2718791-arm-rp-express_29f9100f2a8ff25fef60d5abd82cb91777abfb7e.cab
