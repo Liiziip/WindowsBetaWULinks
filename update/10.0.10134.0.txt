@@ -1,0 +1,8 @@
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/windows10.0-kb3070678-x64_4bea1d23f4d0acd188221002aeda51dd646214c3.psf
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/windows10.0-kb3070678-x64_6e574c935724c1eb0394d2982ad5dad09d07e66b.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/windows10.0-kb3070678-x64_dd0427c1645da6f897d4e5194717e75da5f5427c.msu
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/windows10.0-kb3070678-x64-express_e1cf9a80f0aac032e9fc8192a66e30848d345207.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/windows10.0-kb3070678-x86_0f1916ded2dc2032c01159762c3c42c85373deb7.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/windows10.0-kb3070678-x86_6aeb33537af764eb37e5350243585bddb342ae82.msu
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/windows10.0-kb3070678-x86_7236e3c9d13d26c8864ccfc9f84dde7e405cfa1d.psf
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2015/06/windows10.0-kb3070678-x86-express_8b4df9eb9827df5983b0bd8605f09040f978e4b8.cab
