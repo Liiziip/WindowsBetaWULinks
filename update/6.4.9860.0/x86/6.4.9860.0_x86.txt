@@ -1,0 +1,16 @@
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.4-kb3008931-x86_43810aa8b495f5640bea9afa30808a9dba9b59c4.psf
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.4-kb3008931-x86_9c471cb48e7fbdfb886e24e0eae60dab708970e7.msu
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.4-kb3008931-x86_ca1e08037871276e609733b436a6ecef5a3c2b6b.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.4-kb3008931-x86-express_099c5a71491067a86204a061a8bdb114623c7bbd.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.4-kb3008956-x86_0807d4dfb7a687ce128cce6aa22fc5a893440ef0.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.4-kb3008956-x86_72a47d2c3d42de5bbc09f18a510ffb9ddac90f10.psf
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.4-kb3008956-x86_e64e47fda1541df86ba25fddc1628cb9f5470acf.msu
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.4-kb3008956-x86-express_fa228e1cb4470b15e9cf3fcd098763dc59734a4f.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.4-kb3008968-x86_5f48796bfc0a480f08d907af09e005dbc0789e83.msu
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.4-kb3008968-x86_778cdff94c42d5f8c268eecccd8c701add06b7bd.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.4-kb3008968-x86_f43c00d468465d211221a48a459b1da53f3fef2d.psf
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.4-kb3008968-x86-express_361d40918f916b59476262880bdfe81b3b7091a1.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.4-kb3010668-x86_3a4da900cc463b61a8241edc61d670745aa7d121.psf
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.4-kb3010668-x86_61753215fa02817007a257a6669856efc1d966c9.msu
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.4-kb3010668-x86_b5c6e0bc5f8e346edff5c6c81bfae8b059c86619.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/10/windows6.4-kb3010668-x86-express_69b982fbb4cfbf56450a77315234ff9bb5cfd52c.cab
