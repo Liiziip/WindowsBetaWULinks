@@ -1,0 +1,5 @@
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/03/windows8consumerpreview-kb2607607-x64-chs_f7dfc2a6a73457f72ce3b7e465fd75ead8439575.cab
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/03/windows8consumerpreview-kb2607607-x64-deu_2e9a506e2f25731714a3c87b9598f7c019ec34fe.cab
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/03/windows8consumerpreview-kb2607607-x64-enu_1d5eadf9647d2ee1ae3e8aefcc21540bdb0c58a9.cab
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/03/windows8consumerpreview-kb2607607-x64-fra_9398e9e2c036c847def71aca5dbf62dbb91798ee.cab
+http://download.windowsupdate.com/msdownload/update/software/crup/2012/03/windows8consumerpreview-kb2607607-x64-jpn_2384e3ab18f005be31fd8763bcde54af4d83aa18.cab

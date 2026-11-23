@@ -1,0 +1,15 @@
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windowsrt-kb2607607-woa-ara_ad6ecf11983c37518aebd53cec224282b71597ab.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windowsrt-kb2607607-woa-chs_79f75cd9e7ec7861e71f3005fee5a3e34f6f621a.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windowsrt-kb2607607-woa-deu_8f8d81715993b192fee858a05c6482f93583d9fb.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windowsrt-kb2607607-woa-eng_59c09edee4e85392fda58ca055dd7730d51328e0.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windowsrt-kb2607607-woa-enu_31f5c2ee094a30de2f321b45d847ca89d2539e74.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windowsrt-kb2607607-woa-esn_f066b4c24283b8106d1fb3132c20f01fd9c64403.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windowsrt-kb2607607-woa-fra_11e27e7c07749d82e2b728016bc8db51714ed84c.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windowsrt-kb2607607-woa-heb_7a3f8f5ebcff8487deb2eb6e4616d3d218d4a99b.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windowsrt-kb2607607-woa-ita_68b280d3e94186ab9e88b450adc6220cfb92ffa0.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windowsrt-kb2607607-woa-jpn_ddf94f1aea964cc6e5a5b072e1d71e83196749a3.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windowsrt-kb2607607-woa-kor_c469fae4aa6d1c995734af495550625d1d323bf6.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windowsrt-kb2607607-woa-nld_1e44d13f22c8cd75ad4786b689cbe2ead408d685.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windowsrt-kb2607607-woa-ptb_1fb1aa684e93f1f2ec6b252cbfc2f9f2dac02ac7.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windowsrt-kb2607607-woa-rus_ce3b973ac4e5b4b1b921b99604924d6f72ee2a6e.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/10/windowsrt-kb2607607-woa-zhh_87e897b760d32a5e45f235a7cf67c2af52368bd6.cab

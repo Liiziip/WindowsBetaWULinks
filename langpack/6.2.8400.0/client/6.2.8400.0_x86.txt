@@ -1,0 +1,14 @@
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windows8releasepreview-kb2607607-x86-ara_2d462c8adbab717fb80286a3a0fba2ed4f99aedc.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windows8releasepreview-kb2607607-x86-cat_a8526d13c56c6785d80bc07653d6a188aae5211e.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windows8releasepreview-kb2607607-x86-chs_04ed5431635747b2eb724ee72ca061cb0338bd62.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windows8releasepreview-kb2607607-x86-cht_813e4091c788471c370a9754e246b947100cf280.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windows8releasepreview-kb2607607-x86-deu_4ebdd160b2b45bb43fb89a4218f767f73446d948.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windows8releasepreview-kb2607607-x86-enu_d16a26750d124549a87446157be95797a9683711.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windows8releasepreview-kb2607607-x86-esp_5432ca846697facdf6afa561d89d1dd1753182be.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windows8releasepreview-kb2607607-x86-fra_d901d60def1947be543703bec11a9f925aa3d0b0.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windows8releasepreview-kb2607607-x86-jpn_c4dacd13d4228e5dcde7998636c6241faba04e47.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windows8releasepreview-kb2607607-x86-kor_0af4170127237c13250dd5ca41576ac1e6309178.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windows8releasepreview-kb2607607-x86-ptb_45dac7dadcf665da824ec72769ea9ca6f0874741.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windows8releasepreview-kb2607607-x86-rus_3f0ed746966f4b5e9da810026f2b894694e82ff6.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windows8releasepreview-kb2607607-x86-sve_3bcbb683c7d4a2709b13a5fa1f7121530d78e1ef.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windows8releasepreview-kb2607607-x86-trk_b12f0cd744b1e5f4d012965093984a0086a94b2e.cab

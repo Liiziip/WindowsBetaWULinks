@@ -1,0 +1,11 @@
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windowsrtreleasepreview-kb2607607-woa-ara_9a599e7a869416ddea0bb5595feb51872116e276.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windowsrtreleasepreview-kb2607607-woa-chs_982cc6396b44c1377679d4f2d10caedb8bd4cb09.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windowsrtreleasepreview-kb2607607-woa-cht_e463bb9d753ca78abce0150eaff31ebf676dd5c8.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windowsrtreleasepreview-kb2607607-woa-deu_0940c0cb4c46d5d7061459074c0cdfcac40bd754.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windowsrtreleasepreview-kb2607607-woa-enu_e332a5d63f6e3c27c08426ba87f8ff688435edb5.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windowsrtreleasepreview-kb2607607-woa-esp_026b847306f96a016c1e62a3a8f99308b2154928.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windowsrtreleasepreview-kb2607607-woa-fra_d42d547cc372d6046c60f7b39e87566da16f7f48.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windowsrtreleasepreview-kb2607607-woa-jpn_e4eb7db39a8021f4d6aabe606f98a9bfdf183f41.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windowsrtreleasepreview-kb2607607-woa-kor_5c20476c0e000230774c3971ae26ccbfa4baafc3.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windowsrtreleasepreview-kb2607607-woa-ptb_009865451c4f79bbd3b0ca54cf7b2971969abfc4.cab
+http://download.windowsupdate.com/msdownload/update/software/updt/2012/06/windowsrtreleasepreview-kb2607607-woa-rus_2dc0249215d105eeced4f44cd3e221bb6c73b3f6.cab
