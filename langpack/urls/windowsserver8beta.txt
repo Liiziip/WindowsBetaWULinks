@@ -1,5 +1,0 @@
-http://download.windowsupdate.com/msdownload/update/software/crup/2012/03/windowsserver8beta-kb2607607-x64-chs_290805a232e95b489090abf21eb23202083165f1.cab
-http://download.windowsupdate.com/msdownload/update/software/crup/2012/03/windowsserver8beta-kb2607607-x64-deu_32fd5351502bcb9be5b697e6e0872f6564c55821.cab
-http://download.windowsupdate.com/msdownload/update/software/crup/2012/03/windowsserver8beta-kb2607607-x64-enu_ea7b9e8882f56cc2b3aff8769aaa9a7a281e9716.cab
-http://download.windowsupdate.com/msdownload/update/software/crup/2012/03/windowsserver8beta-kb2607607-x64-fra_b06f6321093e83b49c994973281c6e3aaaa817d1.cab
-http://download.windowsupdate.com/msdownload/update/software/crup/2012/03/windowsserver8beta-kb2607607-x64-jpn_63a8e2e2a8c4ef6af4e69d9f177da285659cb84a.cab
